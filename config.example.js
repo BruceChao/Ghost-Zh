@@ -22,17 +22,17 @@ config = {
         },
 
         // 配置MySQL 数据库
-        /*database: {
+        *database: {
             client: 'mysql',
             connection: {
-                host     : 'host',
-                user     : 'user',
-                password : 'password',
-                database : 'database',
+                host     : '10.10.26.58',
+                user     : 'uPInaXpLeZ6OoUSi',
+                password : 'p6qVvFB20RrtA5CUD',
+                database : 'eybf567LHUkpcgaP',
                 charset  : 'utf8'
             },
             debug: false
-        },*/
+        },
 
         server: {
             host: '127.0.0.1',
