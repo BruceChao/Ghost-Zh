@@ -13,15 +13,14 @@ config = {
     production: {
         url: 'http://my-ghost-blog.com',
         mail: {},
-        // 配置MySQL 数据库
-        *database: {
+        database: {
             client: 'mysql',
             connection: {
-                host     : '10.10.26.58',
-                user     : 'uPInaXpLeZ6OoUSi',
-                password : 'p6qVvFB20RrtA5CUD',
-                database : 'eybf567LHUkpcgaP',
-                charset  : 'utf8'
+                host: '10.10.26.58',
+                user: 'uPInaXpLeZ6OoUSi',
+                password: 'p6qVvFB20RrtA5CUD',
+                database: 'eybf567LHUkpcgaP',
+                charset: 'utf8'
             },
             debug: false
         },
